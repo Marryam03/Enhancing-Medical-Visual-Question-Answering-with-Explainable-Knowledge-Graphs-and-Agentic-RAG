@@ -1,0 +1,288 @@
+case,question,true_answer,answer_type,pred_answer,choices
+273,How is the patient oriented?,0,OPEN,"the patient is in anteroposterior (ap) orientation.
+",['Posterior-Anterior']
+274,Describe the lung abnormalities?,0,OPEN,"the chest x-ray shows bilateral reticular opacities, predominantly in the lower lung fields. this pattern suggests interstitial lung disease.
+",['Pulmonary nodules']
+275,What abnormalities are seen within the lungs?,0,OPEN,"there are bilateral infiltrates seen within the lungs.
+",['Pulmonary nodules']
+276,What is under the right hemidiaphragm?,0,OPEN,"based on the image, the liver and bowel are under the right hemidiaphragm.
+",['Free air']
+277,What is the abnormality by the right hemidiaphragm?,0,OPEN,"there is free air under the right hemidiaphragm, suggestive of pneumoperitoneum.",['Free air']
+278,How would you describe the spleen abnormality,0,OPEN,the spleen demonstrates multiple hypodense lesions.,['hypodense lesion']
+279,What is abnormal about the spleen?,0,OPEN,there are two hypodense lesions within the spleen.,['hypodense lesion']
+280,Which plane is this image taken?,0,OPEN,"the image is an anterior-posterior (ap) chest radiograph.
+",['PA']
+281,How many lesions are in the spleen?,0,OPEN,there are two lesions in the spleen.,['one']
+282,What is abnormal about the pancreas?,0,OPEN,"the pancreas appears enlarged and edematous with surrounding inflammatory changes. this suggests pancreatitis.
+",['Enlarged']
+283,Why is the pancreas abnormal?,0,OPEN,"based on the ct scan, the pancreas is abnormal due to peripancreatic fluid and inflammation, suggesting pancreatitis.",['Enlarged']
+284,What abnormalities are in the lung apices?,0,OPEN,"there are fibrotic changes in both lung apices.
+",['Nodular opacities']
+285,What is seen in the lung apices?,0,OPEN,there are bilateral infiltrates seen in the lung apices.,['Nodular opacities']
+286,How would you describe the abnormalities,0,OPEN,multiple lesions are present within the brain parenchyma demonstrating hyperintense signal on this axial view of a t2-weighted mri. several of these lesions are located peripherally. there is associated vasogenic edema surrounding these lesions.,['Ring-enhancing lesions']
+287,What lobe is the lesion located in?,0,OPEN,"the lesion appears to be located in the right temporal lobe.
+",['right temporal lobe']
+288,Where is the abnormality located?,0,OPEN,"there is a large, abnormal cystic lesion in the right parietal region.",['right temporal lobe']
+289,How would you describe the aortopulmonary window?,0,OPEN,"the aortopulmonary window appears obscured, likely due to overlying lung consolidation or mass. evaluation of the ap window is limited on this radiograph.
+",['middle mogul']
+290,What characteristic finding do you see in the aortopulmonary window?,0,OPEN,mediastinal opacity is seen in the aortopulmonary window.,['middle mogul']
+291,Which sign do you see in the aortopulmonary window in this image?,0,OPEN,"based on the chest x-ray provided, i cannot definitively identify a specific sign in the aortopulmonary window.
+",['middle mogul']
+292,Where is the diffuse pleural thickening?,0,OPEN,diffuse pleural thickening is not clearly visible in the image.,['Right lung']
+293,Which lung is abnormal?,0,OPEN,"the right lung demonstrates increased opacity, suggestive of consolidation or fluid. therefore, the right lung is abnormal.
+",['Right lung']
+294,What kind of image is this?,0,OPEN,"the image is a posteroanterior (pa) chest x-ray.
+",['x-ray']
+295,How many instances of intussusception are in the image?,0,OPEN,"based on the axial ct image provided, i cannot definitively identify any instances of intussusception.
+",['One']
+296,Which side is more clearly visualized?,0,OPEN,"the right side is more clearly visualized.
+",['Left']
+297,Which lung is clearer?,0,OPEN,"the left lung is clearer than the right lung, which shows an infiltrate.
+",['Left']
+298,How wide is the heart compared to the thorax?,0,OPEN,"the cardiothoracic ratio appears normal. the heart width is less than half the width of the thorax.
+",['It is less than half the width of the thorax']
+299,What is the dense mass visualized in the liver?,0,OPEN,"based on the ct scan, there is a dense mass visualized in the liver. further characterization would require a dedicated liver protocol study.
+",['Blood vessel']
+300,Where is free air trapped subcutaneously in this image?,0,OPEN,"subcutaneous air is observed in the soft tissues of the chest wall.
+",['Above the clavicles bilaterally']
+301,Where is the ascending colon?,0,OPEN,the ascending colon is on the right side of the abdomen. it is a tubular structure containing air.,['Posterior to the appendix']
+302,What structure lies directly posterior to the appendix in this image?,0,OPEN,"based on the axial ct image, the structure directly posterior to the appendix appears to be the psoas muscle.
+",['Psoas muscle']
+303,Where is the subcutaneous air collection?,0,OPEN,"subcutaneous air collection is present in the soft tissues of the neck and chest wall.
+",['On the right shoulder.']
+304,What is in the left apex?,0,OPEN,there are cavitary lesions and extensive airspace opacities in the left apex.,['A bullous lesion']
+305,Where is the lesion located?,0,OPEN,"the lesion is located in the right upper lobe.
+",['Anterior mediastinum']
+306,Which side of the heart border is obscured?,0,OPEN,the right heart border is obscured.,['Right']
+307,Where are the kidney?,0,OPEN,"the kidneys are not clearly visible in this axial slice of the abdomen. this image shows a higher cut through the abdomen, visualizing structures such as the liver, stomach, and spleen. the kidneys are located more inferiorly in the abdomen.",['Not seen here']
+308,Where is the colon most prominent from this view?,0,OPEN,"the colon is most prominent in the right upper quadrant and right lower quadrant.
+",['Left']
+309,What structures are visible in this image?,0,OPEN,"due to the image quality, the visible structures appear to be the tongue and oropharynx.
+",['Skull \tcartilage and medulla']
+310,What is this lucency amid densities in the right lung?,0,OPEN,the lucency amid densities in the right lung is suggestive of cavitary lesion within an area of consolidation.,['The right bronchus']
+311,What type of image is this?,0,OPEN,the image is a chest x-ray.,['Plain film x-ray']
+312,What are these opacities anterior to the right kidney?,0,OPEN,"based on the axial ct image, the opacities anterior to the right kidney are likely related to bowel loops and mesenteric fat.
+",['The small intestines']
+313,What is the medium density close to the anterior abdominal wall?,0,OPEN,the medium density close to the anterior abdominal wall is subcutaneous fat.,['The diaphragm']
+314,What is the plane of this image?,0,OPEN,the image is in the axial plane.,['Axial']
+315,What type of image is this?,0,OPEN,this is a transverse section ct image of the abdomen.,['CT with contrast']
+316,What bright white structures form an X?,0,OPEN,"the bright white structures that form an x shape are the ventricles.
+",['lateral ventricles']
+317,"What are the bright white structures, almost forming an X""?""",0,OPEN,"the bright white structures seen centrally are likely the anterior horns of the lateral ventricles. the white structure on the left is a lesion with significant edema.
+",['lateral ventricles']
+318,What hypoattenuated tissue is between the abdominal wall and skin?,0,OPEN,the hypoattenuated tissue between the abdominal wall and skin is subcutaneous fat.,['fat']
+319,What is the dark structure underneath the skin?,0,OPEN,"the dark structure underneath the skin is subcutaneous fat.
+",['fat']
+320,Where is the tip of the line?,0,OPEN,"i'm sorry, i cannot identify a line in this image to determine the location of its tip.",['mid left subclavian vein']
+321,Where is the tip of the Port-a-Cath catheter located?,0,OPEN,"the tip of the port-a-cath catheter is not clearly visible in this chest x-ray.
+",['mid left subclavian vein']
+322,How was this image taken,0,OPEN,the image was taken using t2-weighted mri.,['T2-MRI']
+323,Describe the pathology,0,OPEN,"right lower lobe consolidation, possibly pneumonia.
+",['cardiomegaly with pulmonary edema']
+324,what is the pathology?,0,OPEN,the image shows left sided pleural effusion.,['cardiomegaly with pulmonary edema']
+325,What organ system is the pathology?,0,OPEN,"respiratory system.
+",['pulmonary/lymphatic']
+326,what is the location of the cavitary lesion,0,OPEN,"there is a cavitary lesion located in the right upper lung field.
+",['Right upper lobe']
+327,Where is the cavitary lesion located?,0,OPEN,"there is a cavitary lesion in the right upper lobe.
+",['Right upper lobe']
+328,What plane is this film,0,OPEN,"the film is in the pa (posterior-anterior) plane.
+",['coronal']
+329,what is the location of the mass?,0,OPEN,"the mass is located in the pancreas.
+",['head of the pancreas']
+330,Where is the mass located?,0,OPEN,the mass is located in the head of the pancreas.,['head of the pancreas']
+331,The mass is found in which part of the pancreas?,0,OPEN,"based on the axial ct image, the pancreas is not clearly defined, and it's difficult to identify a mass or determine its location within the pancreas.
+",['The pancreatic head']
+332,What type of MRI sequence is displayed in this image?,0,OPEN,"the mri sequence displayed in this image is t2-weighted.
+",['T2 weighted MRI']
+333,From what structure is the large hypodense mass emanating from?,0,OPEN,the large hypodense mass is emanating from the right iliac artery.,['The base of the cecum']
+334,What lobe of the brain is the lesion located in?,0,OPEN,the lesion is located in the right frontal lobe.,['Right frontal lobe']
+335,In what plane was this image taken?,0,OPEN,"the image was taken in the axial plane.
+",['Axial plane']
+336,In which two ventricles can calcifications be seen on this CT scan?,0,OPEN,"calcifications are seen in the lateral ventricles.
+",['The 3rd ventricle and the lateral ventricles']
+337,What part of the body is being imaged here?,0,OPEN,"the image shows a transverse section of the abdomen.
+",['abdomen']
+338,What abnormality is seen on the left side of the frontal lobe?,0,OPEN,"there is a large abnormal mass in the left frontal lobe.
+",['Regression of left frontal mass']
+339,Diaphragm is elevated on which side?,0,OPEN,"the right hemidiaphragm appears elevated.
+",['Right']
+340,Which side of the diaphragm is elevated?,0,OPEN,the right side of the diaphragm is elevated.,['Right']
+341,Where does the L renal vein connect to,0,OPEN,the l renal vein connects to the inferior vena cava.,['IVC']
+342,Where does the L renal vein drain into?,0,OPEN,the l renal vein drains into the inferior vena cava.,['IVC']
+343,What side of the brain is a lesion on?,0,OPEN,"based on the image, the lesion appears to be located bilaterally.",['Left']
+344,What plane is this?,0,OPEN,axial plane.,['Axial']
+345,Where is there evidence of a pleural effusion?,0,OPEN,"there is evidence of a bilateral pleural effusion, which appears to be blunting the costophrenic angles. there is also some increased opacity in the lower lung fields, which could be due to effusion.",['Right side']
+346,Where is the pleural effusion located?,0,OPEN,"there are bilateral pleural effusions, larger on the right.
+",['Right side']
+347,Where are the acute infarcts?,0,OPEN,"based on the flair axial image, there are multiple foci of hyperintensity in the periventricular and subcortical white matter, suggestive of acute infarcts. the largest infarct appears to be on the right side.
+",['R frontal lobe']
+348,Where do you see acute infarcts?,0,OPEN,"based on the flair sequence, there are multiple areas of hyperintensity in the periventricular and subcortical white matter, suggestive of acute infarcts.
+",['R frontal lobe']
+349,How would you measure the length of the kidneys?,0,OPEN,"to measure the length of the kidneys, you would need to obtain a coronal or sagittal view where the entire kidney is visible from pole to pole. then, measure the distance between the superior and inferior poles along the longest axis of the kidney.
+",['coronal plane?']
+350,What type of imaging modality is used to acquire the above image?,0,OPEN,"the imaging modality used to acquire the image is t2-weighted mri.
+",['MRI - T2 weighted']
+351,The image is taken in what plane?,0,OPEN,the image is taken in the axial plane.,['axial']
+352,What plane is the above image acquired in?,0,OPEN,the image is acquired in the axial plane.,['axial']
+353,What is the location of the lesion?,0,OPEN,"the lesion is located in the right lower lung field.
+",['right lower lateral lung field']
+354,Where is the lesion located?,0,OPEN,"the lesion is located in the right lower lung field.
+",['right lower lateral lung field']
+355,How large is the mass in the right upper quadrant?,0,OPEN,i am unable to determine the size of the mass in the right upper quadrant.,['3.4 cm']
+356,Size of the mass in the right upper quadrant?,0,OPEN,"based on the chest x-ray, there appears to be a mass in the right upper lobe. however, the exact size of the mass cannot be accurately determined from this image alone. further evaluation with additional imaging modalities (e.g., ct scan) would be necessary to measure the dimensions of the mass.
+",['3.4 cm']
+357,What is the biological sex of the patient?,0,OPEN,"based on the image, i cannot determine the biological sex of the patient.",['Female']
+358,What organ system is being imaged?,0,OPEN,"the image shows the central nervous system.
+",['Brain']
+359,The hemorrhage is adjacent to what structures?,0,OPEN,"the hemorrhage is adjacent to the basal ganglia.
+",['Left thalamus and basal ganglia']
+360,What structures are located near the hemorrhage shown?,0,OPEN,"the hemorrhage appears to be located near the basal ganglia, specifically the thalamus and possibly the internal capsule.
+",['Left thalamus and basal ganglia']
+361,What major artery of the brain may be affected by the lesion seen in the above image?,0,OPEN,the lesion appears to be in the distribution of the middle cerebral artery.,['Basilar artery']
+362,Which major artery of the brain is affected by this lesion?,0,OPEN,"based on the mri image, the lesion appears to be affecting the area supplied by the middle cerebral artery (mca).
+",['Basilar artery']
+363,Where are the brain lesions located?,0,OPEN,"there is a large lesion in the right basal ganglia and smaller lesions in the left occipital lobe.
+",['Right hemisphere']
+364,Which hemisphere of the brain are the lesions located in?,0,OPEN,"the lesions are located in the left hemisphere of the brain.
+",['Right hemisphere']
+365,In which brain area is the lesion located?,0,OPEN,the lesion is located in the right cerebellopontine angle.,['Right cerebellopontine angle']
+366,Where is the lesion located?,0,OPEN,the lesion is located in the right cerebellopontine angle.,['Right cerebellopontine angle']
+367,The tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?,0,OPEN,"the hyperattenuating ovoid mass adjacent to the ascending colon appears to be similar in density to bone.
+",['Adipose tissue']
+368,The tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?,0,OPEN,"the hyperattenuating ovoid mass on the patient's right kidney is similar in density to the bone tissue of the vertebral body shown on the image.
+",['Adipose tissue']
+369,The lesion seen in the image above is isointense to what object that is normally found in the brain?,0,OPEN,the lesion is isointense to the gray matter.,['CSF']
+370,The lesion is isointense to what object normally found in the brain?,0,OPEN,"the lesion is isointense to the gray matter.
+",['CSF']
+371,The condition in which a patient has enlarged ventricles as seen in this image?,0,OPEN,"based on the image, the patient likely has hydrocephalus.
+",['Hydrocephalus']
+372,What is the condition in which the ventricles are enlarged as seen in this image?,0,OPEN,"the condition in which the ventricles are enlarged, as seen in this image, is hydrocephalus.",['Hydrocephalus']
+373,What organ system is visualized in the above image?,0,OPEN,"the image visualizes the central nervous system. specifically, it shows an axial view of the brain.",['Brain']
+374,How was this image taken?,0,OPEN,the image appears to be an axial ct scan.,['CT']
+375,What imaging modality is used?,0,OPEN,the imaging modality used is computed tomography (ct).,['CT']
+376,In which lobe do you see an abnormal mass in the above images?,0,OPEN,"the abnormal mass appears to be located in the right upper lobe.
+",['Right upper lobe']
+377,Where is the abnormal mass located with respect to the lungs?,0,OPEN,"there appears to be an abnormal mass or consolidation in the upper lobe of the right lung.
+",['Right upper lobe']
+378,What imaging modality was used to take this image?,0,OPEN,the imaging modality used to take this image is a chest x-ray.,['Xray']
+379,Where is the abnormality?,0,OPEN,"there is evidence of extraconal soft tissue swelling involving both orbits.
+",['Right posteroinferior cerebellum']
+380,What abnormality is present?,0,OPEN,"there is evidence of soft tissue swelling involving the right orbit.
+",['bleeding in the right posteroinferior cerebellum']
+381,How is the patient positioned for this scan?,0,OPEN,"based on the axial view, the patient is in a supine position.",['Supine (see air-fluid level)']
+382,What is the hypodensity in the liver?,0,OPEN,"based on the ct scan, there is no obvious hypodensity in the liver. however, there is a round hypodensity in the right upper quadrant, which could be a distended gallbladder.
+",['Gallbladder']
+383,What is the patient's gender?,0,OPEN,the patient's gender is female. the presence of breast shadows bilaterally indicates this.,['Female']
+384,What is located immediately inferior to the right hemidiaphragm?,0,OPEN,"the liver is located immediately inferior to the right hemidiaphragm.
+",['The liver']
+385,What are the black areas at the top of the image?,0,OPEN,"the black areas at the top of the image represent the subcutaneous fat and the air-filled nasal cavity.
+",['Maxillary sinuses']
+386,What does the least dense region represent,0,OPEN,"the least dense region within the lesion likely represents central necrosis.
+",['Maxillary sinuses']
+387,What is the orientation of the patient?,0,OPEN,"the image shows a transverse view of the abdomen. in this view, the patient is in the axial plane, with anterior at the top of the image and posterior at the bottom.
+",['Lying supine with their feet towards the screen']
+388,What skeletal joint is seen in this image?,0,OPEN,"the skeletal joint seen in this image is the sacroiliac joint.
+",['Sacroiliac joint']
+389,What side is the lesion on?,0,OPEN,"the lesion appears to be located on the right side of the brain.
+",['Right']
+390,What are the hyperdensities on the periphery of the image?,0,OPEN,"the hyperdensities on the periphery of the image appear to be located in the soft tissues of the abdominal wall.
+",['Ribs']
+391,What are the hyperdense opacities located around the periphery?,0,OPEN,"there are hyperdense opacities along the periphery of the liver and spleen. these are most likely related to contrast enhancement of the capsule of these organs. there are also some ribs that are visible along the periphery.
+",['Ribs']
+392,What is better identified on a PA CXR vs a lateral CXR?,0,OPEN,"based on the pa cxr image, the following are better identified on a pa cxr vs a lateral cxr: assessment of the heart size, mediastinal contours, and lung fields.
+",['Right vs left sided pathology']
+393,Which plane is this image in?,0,OPEN,"the image is in the axial plane. the ventricles are visible in cross section.
+",['Axial']
+394,Name one organ that is captured by this image.,0,OPEN,the image captures the colon.,['intestines']
+395,What is wrong with the ventricles?,0,OPEN,"the ventricles appear enlarged, which indicates ventriculomegaly.
+",['Lateral and third ventricular hydrocephalus']
+396,What ventricular abnormalities are seen?,0,OPEN,"based on the image, there is ventriculomegaly noted.
+",['Lateral and third ventricular hydrocephalus']
+397,What is the condition?,0,OPEN,"based on the ct scan image, the condition appears to be diverticulitis. there is evidence of diverticula in the colon, with inflammation in the pericolic fat.
+",['Diverticulitis']
+398,What is the pathology?,0,OPEN,"based on the ct scan image, the pathology appears to be diverticulitis, specifically in the right colon.
+",['Diverticulitis']
+399,In what plane was this image taken?,0,OPEN,the image was taken in the axial plane.,['Axial']
+400,What are the bright specks in the gallbladder,0,OPEN,"the bright specks in the gallbladder are likely gallstones, which appear hyperdense on this ct scan.
+",['Gallstones']
+401,What two tributaries of blood vessels are impacted?,0,OPEN,"based on the dwi sequence, the anterior cerebral artery and middle cerebral artery territories appear to be impacted.
+",['left ACA and MCA']
+402,Which blood vessels are affected?,0,OPEN,"based on the image, the left middle cerebral artery (mca) appears to be affected, leading to a large infarct in the left mca territory.
+",['left ACA and MCA']
+403,What organ is affected by pathology in this image?,0,OPEN,"the affected organ in this image is the brain. the mri shows a lesion in the left thalamus.
+",['brain']
+404,What structures are involved?,0,OPEN,the structures involved are the left thalamus and the left basal ganglia.,"['Caudate, putamen, left parietal']"
+405,What organ system is shown?,0,OPEN,"the central nervous system is shown.
+",['brain']
+406,What structure is depicted?,0,OPEN,"the image depicts an axial view of the brain, specifically showcasing the lateral ventricles.
+",['brain']
+407,What pathology does the image represent,0,OPEN,"the image shows a ct scan of the abdomen with a large, well-defined cystic lesion in the left kidney, suggestive of a renal cyst.
+",['kidney cyst']
+408,What is the mass most likely?,0,OPEN,"based on the ct scan, the mass in the left kidney is most likely a renal cyst.
+",['kidney cyst']
+409,How was the image taken?,0,OPEN,the image was taken via mri.,['axial']
+410,What plane was used in this image?,0,OPEN,"based on the axial view of the brain and the presence of the lateral ventricles, the plane used in this image is axial.",['axial']
+411,"What are the two humps"" at the base on the image signifying?""",0,OPEN,"the ""humps"" at the base of the image likely represent the diaphragmatic domes.
+",['Diaphragm']
+412,What organ system is visualized?,0,OPEN,the visualized organ system is the respiratory system.,['chest']
+413,Which ventricle is the mass located in?,0,OPEN,"the mass appears to be located in the fourth ventricle.
+",['4th ventricle']
+414,What modality is used to take this image?,0,OPEN,"the modality used to take this image is chest x-ray.
+",['XR']
+415,Which lung lobe has the least opacities?,0,OPEN,"based on the chest x-ray, the right upper lobe demonstrates the least amount of opacities.
+",['Upper left']
+416,Term for the enhancement of the luminal surface seen in the image?,0,OPEN,"target sign appearance.
+",['mucosal hyperemia']
+417,The hyperattenuating ovoid mass is lateral to what structure?,0,OPEN,the hyperattenuating ovoid mass is lateral to the right kidney.,['ascending colon']
+418,Which kidney has fluid around it?,0,OPEN,"based on the axial ct image provided, it is not possible to determine which kidney has fluid around it. the kidneys are not clearly visible in this slice.
+",['Right']
+419,What is on the anterior wall of the right chest?,0,OPEN,there is a possible subcutaneous port on the anterior wall of the right chest.,['Mediport']
+420,Where is the location of the mass?,0,OPEN,"there is a mass in the right lung, hilar region.",['anterior mediastinum']
+421,How large is the mass?,0,OPEN,"based on the axial ct image, the mass appears to be quite large, occupying a significant portion of the upper abdomen. however, without precise measurement tools available on the image, i am unable to provide a specific measurement.
+",['5mm']
+422,What image plane is this?,0,OPEN,"the image plane is axial. the text ""t1 trans"" and the axial view of the brain confirm this.",['Axial']
+423,What modality was used?,0,OPEN,the modality used was x-ray.,['plain film']
+424,What modality was used for this image?,0,OPEN,the image modality is flair mri.,['MRI']
+425,Where are the signals most intense?,0,OPEN,the signals are most intense in the cortical ribbon.,['Frontal and Occipital']
+426,Where are the infarcts?,0,OPEN,there are infarcts in the bilateral cerebellar hemispheres.,"['basal ganglia, cerebellum, cerebral cortex']"
+427,The hypointense nature of the hemorrhage signifies what in terms of the timeline?,0,OPEN,the hypointense signal on this image indicates that the hemorrhage is likely in the acute to early subacute phase.,['early hemorrhage']
+428,Is the spleen present?,0,OPEN,"based on the axial ct image, the spleen is present.
+","[""On the patient's left""]"
+429,Which side of the lungs are hyperinflated?,0,OPEN,"there is no clear evidence of hyperinflation on either side of the lungs in the provided chest x-ray.
+",['Bilateral lungs']
+430,What type of MRI modality is used?,0,OPEN,the mri modality used is diffusion weighted imaging (dwi).,['DWI Diffusion weighted']
+431,What image modality is used?,0,OPEN,the image modality used is a ct scan.,['CT']
+432,Where is the opacity located?,0,OPEN,"there are bilateral diffuse opacities in the lungs.
+","['Right of the midline, superior to the right hilum']"
+433,How big is the mass in cm?,0,OPEN,"based on the axial ct image of the head, the mass appears to be approximately 2 cm in diameter.",['2.5cm x 1.7cm x 1.6cm']
+434,What is the location of the three circular opacities?,0,OPEN,"the three circular opacities are located in the abdomen.
+",['Stomach']
+435,Where are the three circular opacities located?,0,OPEN,"the three circular opacities are located in the abdomen.
+",['Stomach']
+436,How is the artifact in this image categorized?,0,OPEN,"based on the t2 flair sequence, the artifact is motion artifact.",['Motion']
+437,What type of artifact is shown in this image?,0,OPEN,"there is no clear artifact shown in this image. instead, the t2 flair mri shows bilateral symmetric hyperintensities in the basal ganglia, most likely in the putamen and caudate nuclei. this is a pathological finding, not an artifact.
+",['Motion']
+438,What cross section of the brain is this image?,0,OPEN,"the image shows an axial cross section of the brain.
+",['Axial']
+439,What is the imaging modality?,0,OPEN,the imaging modality is mri (magnetic resonance imaging).,['MR-FLAIR']
+440,What are the hyperdense lesions noted at the edges of the aorta?,0,OPEN,the hyperdense lesions noted at the edges of the aorta are likely calcifications.,['Calcified atherosclerosis']
+441,What are the hyperintensities surrounding the aorta?,0,OPEN,"there are multiple hyperdensities surrounding the aorta which are likely calcified plaques.
+",['Calcified atherosclerosis']
+442,What is the sequence of this MRI?,0,OPEN,"the mri sequence appears to be t2-weighted.
+",['T2-weighted']
+443,What pathology is seen in this image?,0,OPEN,"based on the ct scan image, the pathology seen is dilated small bowel loops.
+",['soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy']
+444,What is wrong with the patient's scan?,0,OPEN,"the scan shows distended loops of the small bowel.
+",['soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy']
+445,The image probably had what incidental finding?,0,OPEN,the image shows a lesion in the left periventricular white matter. this could be an incidental finding such as a white matter lesion.,['cavum vergae']
+446,What was probably found incidentally on this image?,0,OPEN,"based on the t2-weighted mri, a lesion in the white matter of the left hemisphere, possibly a cavernoma, was likely found incidentally.",['cavum vergae']
+447,This image is taken in what plane?,0,OPEN,the image is taken in the axial plane.,['axial']
+448,This image is consistent with what condition?,0,OPEN,"based on the ct scan image, the condition is likely related to peritonitis or intra-abdominal inflammation.
+",['appendicitis']
+449,What condition does the patient have?,0,OPEN,"based on the ct scan, the patient appears to have an intra-abdominal abscess.
+",['appendicitis']
+450,Where Is there obstruction present?,0,OPEN,"there appears to be an obstruction in the small bowel, as evidenced by dilated loops of small intestine and a transition point in the right side of the abdomen.
+",['proximal aspect of the appendix']
+451,"Where is obstruction present, if any?",0,OPEN,"based on the image, an obstruction appears to be present in the right iliac region.
+",['proximal aspect of the appendix']
