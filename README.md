@@ -4,7 +4,7 @@ This repository contains two main modules for advancing explainable Medical Visu
 
 ---
 
-## 1. KG&RAG
+## 1. Knowledge Graph & RAG
 
 ### Overview
 
@@ -33,7 +33,7 @@ The **KG&RAG** module integrates structured medical knowledge graphs with retrie
   - Rationale BERTScore-F1: 84.81%
 
 
-## 2. AgenticRAG
+## 2. Knowledge Graph with AgenticRAG 
 
 ### Overview
 
